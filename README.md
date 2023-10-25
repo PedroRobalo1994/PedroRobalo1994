@@ -43,6 +43,6 @@ src="https://img.shields.io/twitter/follow/@PedroRobalo94?logo=twitter&style=for
 
 <a href="http://www.github.com/PedroRobalo1994"><img src="https://github-readme-stats-htxzvl14e-pedro-robalos-projects.vercel.app/api?username=PedroRobalo1994&icons=true&theme=transparent&hide_border=true" alt="PedroRobalo1994's GitHub stats" /></a>
 
-<a href="http://www.github.com/PedroRobalo1994"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroRobalo1994&icons=true&theme=transparent&hide_border=true" /></a>
+<a href="http://www.github.com/PedroRobalo1994"><img src="https://github-readme-stats-htxzvl14e-pedro-robalos-projects.vercel.app/api?username=PedroRobalo1994&icons=true&theme=transparent&hide_border=true" /></a>
 
 <a href="https://github.com/PedroRobalo1994" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRobalo1994&icons=true&theme=transparent&hide_border=true" alt="Top Languages" /></a>
