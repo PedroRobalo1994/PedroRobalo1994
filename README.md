@@ -43,15 +43,6 @@ Since then I’ve been focused on **test automation** across multiple platforms 
 
 ---
 
-### 🌱 Currently Learning
-
-- DevOps
-- Web Development
-- AI / Machine Learning
-- Web3
-
----
-
 ### 📫 Let's Connect
 
 - 📧 Email: [pmrobalo@gmail.com](mailto:pmrobalo@gmail.com)
