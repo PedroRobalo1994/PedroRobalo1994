@@ -18,7 +18,7 @@ Since then I’ve been focused on **test automation** across multiple platforms 
 
 - **Uphold** — Test Automation Engineer  
   Automating mobile & web flows for a crypto/digital assets platform (Cypress + Detox)
-- **Aubay / Siemens** — Test Automation  
+- **Aubay / Siemens** — Test Automation Engineer
   Improved test automation for internal platforms used to manage IT solutions and plan/deploy factories worldwide
 - **Capgemini Engineering** — Test Automation Engineer  
   Developed automation frameworks for set-top boxes, mobile, web and Smart TV for major telecom companies. Worked with CI/CD and continuous testing platforms
